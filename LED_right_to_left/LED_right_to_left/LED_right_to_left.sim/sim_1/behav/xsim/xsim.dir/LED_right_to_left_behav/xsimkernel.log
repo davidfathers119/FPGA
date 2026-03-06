@@ -1,0 +1,7 @@
+Running: xsim.dir/LED_right_to_left_behav/xsimk.exe -simmode gui -wdb LED_right_to_left_behav.wdb -simrunnum 0 -socket 51750
+Design successfully loaded
+Design Loading Memory Usage: 27184 KB (Peak: 27184 KB)
+Design Loading CPU Usage: 811 ms
+Simulation completed
+Simulation Memory Usage: 27960 KB (Peak: 27960 KB)
+Simulation CPU Usage: 827 ms

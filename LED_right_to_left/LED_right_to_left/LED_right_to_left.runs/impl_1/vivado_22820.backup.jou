@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Mar  6 13:02:32 2026
+# Process ID         : 22820
+# Current directory  : D:/VIVADO/test/LED_right_to_left/LED_right_to_left/LED_right_to_left.runs/impl_1
+# Command line       : vivado.exe -log LED_right_to_left.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source LED_right_to_left.tcl -notrace
+# Log file           : D:/VIVADO/test/LED_right_to_left/LED_right_to_left/LED_right_to_left.runs/impl_1/LED_right_to_left.vdi
+# Journal file       : D:/VIVADO/test/LED_right_to_left/LED_right_to_left/LED_right_to_left.runs/impl_1\vivado.jou
+# Running On         : DaveHung-PC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+# CPU Frequency      : 3600 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17053 MB
+# Swap memory        : 4416 MB
+# Total Virtual      : 21470 MB
+# Available Virtual  : 4389 MB
+#-----------------------------------------------------------
+source LED_right_to_left.tcl -notrace

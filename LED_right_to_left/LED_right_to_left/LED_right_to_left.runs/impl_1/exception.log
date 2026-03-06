@@ -1,0 +1,4 @@
+ERROR: Exception caught trying to open file D:\VIVADO\test\LED_right_to_left\LED_right_to_left\LED_right_to_left.runs\impl_1/runme.log
+	Exception name: Error
+	Exception error code: 70
+	Exception message: 沒有使用權限

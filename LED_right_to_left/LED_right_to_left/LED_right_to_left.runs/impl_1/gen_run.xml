@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1772774466">
+  <File Type="REPORTS-TCL" Name="LED_right_to_left_reports.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="LED_right_to_left_power_summary_routed.pb"/>
+  <File Type="BITSTR-MMI" Name="LED_right_to_left.mmi"/>
+  <File Type="OPT-DRC" Name="LED_right_to_left_drc_opted.rpt"/>
+  <File Type="BG-DRC" Name="LED_right_to_left.drc"/>
+  <File Type="ROUTE-STATUS-PB" Name="LED_right_to_left_route_status.pb"/>
+  <File Type="BG-BGN" Name="LED_right_to_left.bgn"/>
+  <File Type="PLACE-UTIL" Name="LED_right_to_left_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="LED_right_to_left_utilization_placed.pb"/>
+  <File Type="PLACE-IO" Name="LED_right_to_left_io_placed.rpt"/>
+  <File Type="BG-BIN" Name="LED_right_to_left.bin"/>
+  <File Type="PLACE-CTRL" Name="LED_right_to_left_control_sets_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="LED_right_to_left_power_routed.rpx"/>
+  <File Type="ROUTE-DCP" Name="LED_right_to_left_routed.dcp"/>
+  <File Type="BITSTR-MSK" Name="LED_right_to_left.msk"/>
+  <File Type="BITSTR-RBT" Name="LED_right_to_left.rbt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="LED_right_to_left_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-RPX" Name="LED_right_to_left_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="LED_right_to_left_route_status.rpt"/>
+  <File Type="PA-TCL" Name="LED_right_to_left.tcl"/>
+  <File Type="ROUTE-PWR" Name="LED_right_to_left_power_routed.rpt"/>
+  <File Type="ROUTE-DRC" Name="LED_right_to_left_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="LED_right_to_left_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-PB" Name="LED_right_to_left_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="LED_right_to_left.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="LED_right_to_left_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="LED_right_to_left_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="LED_right_to_left.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="LED_right_to_left_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-SIMILARITY" Name="LED_right_to_left_incremental_reuse_routed.rpt"/>
+  <File Type="RDI-RDI" Name="LED_right_to_left.vdi"/>
+  <File Type="ROUTE-CLK" Name="LED_right_to_left_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="LED_right_to_left_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="LED_right_to_left_bus_skew_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="LED_right_to_left_bus_skew_routed.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="LED_right_to_left_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="LED_right_to_left_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="LED_right_to_left_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="LED_right_to_left_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="LED_right_to_left_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="LED_right_to_left.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="LED_right_to_left_bus_skew_postroute_physopted.pb"/>
+  <File Type="BITSTR-NKY" Name="LED_right_to_left.nky"/>
+  <File Type="BITSTR-BMM" Name="LED_right_to_left_bd.bmm"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-HWDEF" Name="LED_right_to_left.hwdef"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="LED_right_to_left_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="LED_right_to_left_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="LED_right_to_left_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMING-PB" Name="LED_right_to_left_timing_summary_routed.pb"/>
+  <File Type="OPT-DCP" Name="LED_right_to_left_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="LED_right_to_left_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="LED_right_to_left_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="LED_right_to_left_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="LED_right_to_left_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="LED_right_to_left_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="LED_right_to_left_postroute_physopt_bb.dcp"/>
+  <File Type="PDI-FILE" Name="LED_right_to_left.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="LED_right_to_left_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="LED_right_to_left_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="LED_right_to_left.rcfi"/>
+  <File Type="CFI_FILE" Name="LED_right_to_left.cfi"/>
+  <File Type="RNPI_FILE" Name="LED_right_to_left.rnpi"/>
+  <File Type="NPI_FILE" Name="LED_right_to_left.npi"/>
+  <File Type="RBD_FILE" Name="LED_right_to_left.rbd"/>
+  <File Type="ROUTE-RQS" Name="LED_right_to_left_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="LED_right_to_left_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../LED_right_to_left.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../test_LED_right_to_left.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="LED_right_to_left"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../ZC702_constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/test.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2024"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

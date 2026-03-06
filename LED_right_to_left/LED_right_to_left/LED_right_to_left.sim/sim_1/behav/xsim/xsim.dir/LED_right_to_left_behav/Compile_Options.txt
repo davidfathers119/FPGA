@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "LED_right_to_left_behav" "xil_defaultlib.LED_right_to_left" -log "elaborate.log" 
