@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Fri Mar  6 13:35:23 2026
+# Process ID         : 16212
+# Current directory  : D:/VIVADO/test/Switch_LED/Switch_LED/Switch_LED.runs/impl_1
+# Command line       : vivado.exe -log test_switch_led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test_switch_led.tcl -notrace
+# Log file           : D:/VIVADO/test/Switch_LED/Switch_LED/Switch_LED.runs/impl_1/test_switch_led.vdi
+# Journal file       : D:/VIVADO/test/Switch_LED/Switch_LED/Switch_LED.runs/impl_1\vivado.jou
+# Running On         : DaveHung-PC
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz
+# CPU Frequency      : 3600 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17053 MB
+# Swap memory        : 5039 MB
+# Total Virtual      : 22092 MB
+# Available Virtual  : 4450 MB
+#-----------------------------------------------------------
+source test_switch_led.tcl -notrace
