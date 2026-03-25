@@ -24,14 +24,14 @@ set_property IOSTANDARD LVCMOS25 [get_ports {gpio_sw_tri_i[0] gpio_sw_tri_i[1]}]
 
 ##LEDs
 
-set_property -dict {PACKAGE_PIN E15 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[0]}]
-set_property -dict {PACKAGE_PIN D15 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[1]}]
-set_property -dict {PACKAGE_PIN W17 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[2]}]
-set_property -dict {PACKAGE_PIN W5  IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[3]}]
-set_property -dict {PACKAGE_PIN V7  IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[4]}]
-set_property -dict {PACKAGE_PIN W10 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[5]}]
-set_property -dict {PACKAGE_PIN P18 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[6]}]
-set_property -dict {PACKAGE_PIN P17 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[7]}]
+set_property -dict {PACKAGE_PIN E15 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[7]}]
+set_property -dict {PACKAGE_PIN D15 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[6]}]
+set_property -dict {PACKAGE_PIN W17 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[5]}]
+set_property -dict {PACKAGE_PIN W5  IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[4]}]
+set_property -dict {PACKAGE_PIN V7  IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[3]}]
+set_property -dict {PACKAGE_PIN W10 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[2]}]
+set_property -dict {PACKAGE_PIN P18 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[1]}]
+set_property -dict {PACKAGE_PIN P17 IOSTANDARD LVCMOS25} [get_ports {LED_tri_o[0]}]
 
 ##Buttons
 
