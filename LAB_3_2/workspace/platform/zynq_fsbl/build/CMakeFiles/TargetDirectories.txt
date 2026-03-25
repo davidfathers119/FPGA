@@ -1,0 +1,3 @@
+C:/FPGA/CHU_FPGA_LAB/LAB_3_2/LAB_3_2/workspace/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/FPGA/CHU_FPGA_LAB/LAB_3_2/LAB_3_2/workspace/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/FPGA/CHU_FPGA_LAB/LAB_3_2/LAB_3_2/workspace/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
